@@ -15,3 +15,5 @@ word-count
    usage.rst
    credit.rst
    exercises.rst
+
+Hello, I'm making a change. Let's see if this ends up on the readthedocs documentation page!
